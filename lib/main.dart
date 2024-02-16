@@ -17,19 +17,23 @@ class MyApp extends StatelessWidget {
                 child:Column(
                     children: [
                       Expanded(
-                          child: Container(color: Colors.black, margin: EdgeInsets.all(4),),
+                          child: Container(color: Colors.black,
+                            margin: EdgeInsets.all(4),),
                           flex:3
                       ),
                       Expanded(
-                          child: Container(color: Colors.teal, margin: EdgeInsets.all(4),),
+                          child: Container(color: Colors.teal,
+                            margin: EdgeInsets.all(4),),
                           flex:1
                       ),
                       Expanded(
-                          child: Container(color: Colors.red, margin: EdgeInsets.all(4),),
+                          child: Container(color: Colors.red,
+                            margin: EdgeInsets.all(4),),
                           flex:1
                       ),
                       Expanded(
-                        child: Container(color: Colors.indigoAccent, margin: EdgeInsets.all(4),),
+                        child: Container(color: Colors.indigoAccent,
+                          margin: EdgeInsets.all(4),),
                         flex: 3,
                       )
                     ]
@@ -39,19 +43,23 @@ class MyApp extends StatelessWidget {
                 child:Column(
                     children: [
                       Expanded(
-                          child: Container(color: Colors.tealAccent, margin: EdgeInsets.all(4),),
+                          child: Container(color: Colors.tealAccent,
+                            margin: EdgeInsets.all(4),),
                           flex:3
                       ),
                       Expanded(
-                          child: Container(color: Colors.black, margin: EdgeInsets.all(4),),
+                          child: Container(color: Colors.black,
+                            margin: EdgeInsets.all(4),),
                           flex:1
                       ),
                       Expanded(
-                          child: Container(color: Colors.orange, margin: EdgeInsets.all(4),),
+                          child: Container(color: Colors.orange,
+                            margin: EdgeInsets.all(4),),
                           flex:1
                       ),
                       Expanded(
-                        child: Container(color: Colors.yellowAccent, margin: EdgeInsets.all(4),),
+                        child: Container(color: Colors.yellowAccent,
+                          margin: EdgeInsets.all(4),),
                         flex: 3,
                       )
                     ]
