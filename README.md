@@ -1,16 +1,3 @@
-# drakovskiy_lab_2
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<h1>Практическая работа №1<h1>
+<h2>Скриншот работы<h2>
+![Снимок экрана 2024-02-16 122641](https://github.com/DevLevKek/Drackovskiy_Lab_2/assets/135211811/a6f8ba8c-982c-479f-8fac-8b33e460a905)
